@@ -21,6 +21,9 @@ https://htmlcheatsheet.com/js/
 ## Jquery
 https://oscarotero.com/jquery/
 
+## Jquery Datatable
+https://michaelcurrin.github.io/dev-cheatsheets/cheatsheets/javascript/packages/jquery/datatables.html
+
 ## Kotlin
 https://devhints.io/kotlin
 
