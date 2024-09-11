@@ -20,7 +20,9 @@ Feel free to contribute! 🎉 Keep this cheatsheet updated with the latest tools
 - [React](#react)
 - [Regex](#regex)
 - [TypeScript](#typescript)
-
+- [Day.js](#dayjs)
+- [Markdown](#markdown)
+- [MongoDB](#mongodb)
 ---
 
 ## Bash
@@ -75,6 +77,18 @@ Master regular expressions quickly:
 ## TypeScript
 TypeScript essentials in one place:
 - [TypeScript Cheatsheet](https://devhints.io/typescript)
+
+## Day.js
+Day.js essentials
+- [Day.js Date and Hours Formats Cheatsheet](https://day.js.org/docs/en/display/format)
+
+## Markdown
+Markdown essentials
+- [Markdown Cheatsheet](https://www.markdownguide.org/basic-syntax/)
+
+## MongoDB
+MongoDB essentials
+- [MongoDB Queries Cheatsheet](https://webdevsimplified.com/mongodb-cheat-sheet.html)
 
 ---
 
