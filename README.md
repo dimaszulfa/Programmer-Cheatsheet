@@ -1,43 +1,90 @@
 # Programmer Cheatsheet 📚💻
-A curated collection of cheatsheets, quick references, and best practices for developers of all levels. This repository serves as a go-to guide for coding shortcuts, syntax, and common workflows across multiple programming languages and technologies.. 
 
-Contributions are welcome! 🎉 Keep this cheatsheet updated with the latest developer tools and techniques to make coding faster and easier.
+Welcome to the **Programmer Cheatsheet**—a curated collection of essential cheatsheets, quick references, and best practices for developers of all levels. This repository is your go-to guide for coding shortcuts, syntax tips, and common workflows across various programming languages and technologies. 
+
+Feel free to contribute! 🎉 Keep this cheatsheet updated with the latest tools and techniques to make coding more efficient and enjoyable.
+
+---
+
+## Table of Contents
+- [Bash](#bash)
+- [Dart](#dart)
+- [Git](#git)
+- [Go](#go)
+- [JavaScript](#javascript)
+- [jQuery](#jquery)
+- [jQuery DataTables](#jquery-datatables)
+- [Kotlin](#kotlin)
+- [Laravel](#laravel)
+- [PostgreSQL](#postgresql)
+- [React](#react)
+- [Regex](#regex)
+- [TypeScript](#typescript)
+
+---
 
 ## Bash
-https://devhints.io/bash
+A handy Bash reference guide:
+- [Bash Cheatsheet](https://devhints.io/bash)
 
 ## Dart
-https://quickref.me/dart.html
+Quick reference for Dart programming:
+- [Dart Cheatsheet](https://quickref.me/dart.html)
 
 ## Git
-https://education.github.com/git-cheat-sheet-education.pdf
+Master Git commands with this useful cheatsheet:
+- [Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## Go
-https://devhints.io/go
+Explore Go language syntax and tips:
+- [Go Cheatsheet](https://devhints.io/go)
 
-## Javascript
-https://htmlcheatsheet.com/js/
+## JavaScript
+A comprehensive guide for JavaScript shortcuts:
+- [JavaScript Cheatsheet](https://htmlcheatsheet.com/js/)
 
-## Jquery
-https://oscarotero.com/jquery/
+## jQuery
+Get started with jQuery:
+- [jQuery Cheatsheet](https://oscarotero.com/jquery/)
 
-## Jquery Datatable
-https://michaelcurrin.github.io/dev-cheatsheets/cheatsheets/javascript/packages/jquery/datatables.html
+## jQuery DataTables
+Simplify working with jQuery DataTables:
+- [jQuery DataTables Cheatsheet](https://michaelcurrin.github.io/dev-cheatsheets/cheatsheets/javascript/packages/jquery/datatables.html)
 
 ## Kotlin
-https://devhints.io/kotlin
+Everything you need to know about Kotlin:
+- [Kotlin Cheatsheet](https://devhints.io/kotlin)
 
 ## Laravel
-https://quickref.me/laravel.html
+Quick access to Laravel documentation:
+- [Laravel Cheatsheet](https://quickref.me/laravel.html)
 
 ## PostgreSQL
-https://learnsql.com/blog/postgresql-cheat-sheet/
+An essential guide for PostgreSQL users:
+- [PostgreSQL Cheatsheet](https://learnsql.com/blog/postgresql-cheat-sheet/)
 
-## React JS
-https://devhints.io/react
+## React
+Simplify React development with this reference:
+- [React Cheatsheet](https://devhints.io/react)
 
 ## Regex
-https://quickref.me/regex
+Master regular expressions quickly:
+- [Regex Cheatsheet](https://quickref.me/regex)
 
 ## TypeScript
-https://devhints.io/typescript
+TypeScript essentials in one place:
+- [TypeScript Cheatsheet](https://devhints.io/typescript)
+
+---
+
+### Contributing
+Have something to add or improve? Contributions are always welcome! Please feel free to submit a pull request or open an issue to enhance this cheatsheet collection.
+
+---
+
+### License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Happy coding! 😊
