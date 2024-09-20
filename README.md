@@ -49,7 +49,7 @@ Explore Go language syntax and tips:
 ## JavaScript
 A comprehensive guide for JavaScript shortcuts:
 - [JavaScript Cheatsheet](https://htmlcheatsheet.com/js/)
-- [JavaScript Cheatsheet](javascript.info/)
+- [JavaScript Cheatsheet](https://javascript.info/)
 
 ## jQuery
 Get started with jQuery:
